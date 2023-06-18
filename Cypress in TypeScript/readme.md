@@ -1,3 +1,12 @@
+Quick links : https://qavalidation.com/category/cypress/
+https://github.com/sunilpatro1985/Cypress_TypeScript/tree/main/cypress/e2e/examples
+https://docs.cypress.io/guides/references/changelog#10-0-1
+https://docs.cypress.io/api/cypress-api/config#syntax
+
+
+
+
+
 
     1
     youtube   : 
