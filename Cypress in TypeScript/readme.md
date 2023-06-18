@@ -1,4 +1,4 @@
-sample 
+
     1
     youtube   : 
     documnet  : 
@@ -12,8 +12,24 @@ sample
     youtube   : 
     documnet  : https://qavalidation.com/2015/05/xpath-css-patterns.html/
     
+    3
+    youtube   : https://youtu.be/YpA8AhCNSTg
+    documnet  :  https://docs.cypress.io/api/commands/get
+    
+    
+    4
+    youtube   : 
+    documnet  : https://docs.cypress.io/guides/core-concepts/introduction-to-cypress#Commands-Are-Not-Promises
+    
+    
+    5
+    youtube   : https://youtu.be/SInWGlUNxbY
+    documnet  : 
+    
+
     1
     youtube   : 
-    documnet  : https://docs.cypress.io/api/commands/getx`
+    documnet  :  https://docs.cypress.io/api/commands/select#Syntax
+              https://qavbox.github.io/demo/signup/
     
     
