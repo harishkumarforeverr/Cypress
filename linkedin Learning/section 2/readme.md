@@ -1,0 +1,3 @@
+1.  we write all the test cases in the folder intergration
+2. file end with spec.js
+3. we have cover all alis and before each and text and ivoke and etc.......
